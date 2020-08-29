@@ -7,4 +7,4 @@ SQL injection is a code injection technique that might destroy your database. SQ
 SQL is a standard language for storing, manipulating and retrieving data in databases.
 
 ### Start mysql service and login.
-![](start mysql service.png)
+![](start%20mysql%20service.png)
