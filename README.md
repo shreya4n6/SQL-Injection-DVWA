@@ -23,11 +23,11 @@ Syntax - Insert into table_name(Column_name1, Column_name2, ....) values (Value1
 ![](insert%20values%20in%20table.png)
 
 ### To select all data in table user
-command - Select * from user;
-![](select%20date%20from%20table%20user.png)
+command - Select * from user;<br>
+![](select%20date%20from%20table%20user.png)<br>
 
-### To select database. use command - select database();
-![](select%20database.png)
+### To select database. use command - select database();<br>
+![](select%20database.png)<br>
 
 ### To see all username present in table user.
 command - select username from user;<br>
