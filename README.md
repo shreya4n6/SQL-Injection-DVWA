@@ -22,4 +22,21 @@ Syntax - Create table table_name(Column_name1 data_type, Column_name2 datatype, 
 Syntax - Insert into table_name(Column_name1, Column_name2, ....) values (Value1, Value2, ....);
 ![](insert%20values%20in%20table.png)
 
-### 
+### To select all data in table user
+command - Select * from user;
+![](select%20date%20from%20table%20user.png)
+
+### To select database. use command - select database();
+![](select%20database.png)
+
+### To see all username present in table user.
+command - select username from user;
+![](see%20usernames%20present.png)
+
+### Login query - Select password from user where username = 'root';
+![](login%20query.png)
+
+
+# To perform sql injection of severity low, medium and high refer to the documentation provided.
+### (To be used for education purpose only !!)
+
