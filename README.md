@@ -14,3 +14,12 @@ Syntax - create database Database_name;<br>
 Then use show tables; command to check tables exist in database.<br>
 ![](show%20tables.png)
 
+### Now create table user and add column to it.
+Syntax - Create table table_name(Column_name1 data_type, Column_name2 datatype, ....);
+![](create%20table%20user.png)
+
+### Insert values in table.
+Syntax - Insert into table_name(Column_name1, Column_name2, ....) values (Value1, Value2, ....);
+![](insert%20values%20in%20table.png)
+
+### 
