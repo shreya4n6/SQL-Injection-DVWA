@@ -30,8 +30,8 @@ command - Select * from user;
 ![](select%20database.png)
 
 ### To see all username present in table user.
-command - select username from user;
-![](see%20usernames%20present.png)
+command - select username from user;<br>
+![](see%20usernames%20present.png)<br>
 
 ### Login query - Select password from user where username = 'root';
 ![](login%20query.png)
