@@ -8,3 +8,9 @@ SQL is a standard language for storing, manipulating and retrieving data in data
 
 ### Start mysql service and login.
 ![](start%20mysql%20service.png)
+### Create database name security.
+Syntax - create database Database_name;<br>
+
+Then use show tables; command to check tables exist in database.<br>
+![](show%20tables.png)
+
